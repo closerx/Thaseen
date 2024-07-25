@@ -2267,9 +2267,9 @@ section,
   .loading  #text-2{
 border:2px solid blue;
   position:absolute ;
-
+    Width:100px;
   top:15rem ;
-  right:40rem;
+  right:35rem;
   height:100px ;
   font-size:30px ;
   font-weight:bold ;
