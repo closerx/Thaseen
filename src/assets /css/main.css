@@ -274,10 +274,6 @@ footer p{
   background: color-mix(in srgb, var(--accent-color), transparent 15%);
 }
 
-@media (max-width: 1200px) {
-  .header .logo {
-    order: 1;
-  }
 
   .header .btn-getstarted {
     order: 2;
@@ -2352,7 +2348,7 @@ section,
 
 /* xl */
 @media screen and (min-width:1200px){
-.dropdown-hadi{
+.header .logo{
   border:2px solid green;
  } 
  .loading #text-1{
