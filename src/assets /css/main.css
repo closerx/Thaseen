@@ -2255,6 +2255,7 @@ section,
   }
 }
 @media screen and (min-width:1024px){
+
  .loading #text-1{
   position:absolute ;
   top:10rem;
@@ -2264,7 +2265,6 @@ section,
   font-weight:bold ;
 }
   .loading  #text-2{
-border:2px solid blue;
   position:absolute ;
     Width:100px;
   top:15rem ;
@@ -2273,4 +2273,7 @@ border:2px solid blue;
   font-size:30px ;
   font-weight:bold ;
   }
+.werapper  .carousel{
+ grid-auto-columns: calc((100%/6 - 9px));
+}
 }
