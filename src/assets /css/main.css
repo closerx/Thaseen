@@ -2166,7 +2166,7 @@ section,
   border-radius:50%;
   cursor: pointer ;
   position:absolute ;
-  top:70rem;
+  top:90rem;
   transform:translateY(-50%);
   font-size:1.25rem;
   box-shadow:0 3px 6px rgba(0,0,0,0.32);
