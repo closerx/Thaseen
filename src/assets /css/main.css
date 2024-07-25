@@ -2259,9 +2259,19 @@ section,
    border: 2px solid red ;
   position:absolute ;
   top:10rem;
-  right:30rem ;
+  right:35rem ;
   height:100px ;
   font-size:30px ;
   font-weight:bold ;
 }
+  .loading  #text-2{
+border:2px solid blue;
+  position:absolute ;
+
+  top:15rem ;
+  right:35rem;
+  height:100px ;
+  font-size:30px ;
+  font-weight:bold ;
+  }
 }
