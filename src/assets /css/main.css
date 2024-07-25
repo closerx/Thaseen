@@ -2333,7 +2333,17 @@ section,
   height:500px;
   border-radius:20px;
 }
-
+.kids{
+  height:150px ;
+  width:400px;
+  background-color:#fff ;
+  z-index:999;
+  border-radius:10px ;
+  position:absolute ;
+  top:30rem;
+  right :70px ;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 .werapper  .carousel{
  grid-auto-columns: calc((100%/4 - 9px));
 }
