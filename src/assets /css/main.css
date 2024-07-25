@@ -2298,7 +2298,7 @@ section,
     grid-auto-columns: 100%;
   }
 }
-@media screen and (min-width:1024px){
+@media screen and (max-width:1536px){
 
  .loading #text-1{
   position:absolute ;
