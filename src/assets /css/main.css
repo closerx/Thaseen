@@ -2298,9 +2298,10 @@ section,
     grid-auto-columns: 100%;
   }
 }
-@media screen and (max-width:1536px){
+@media screen and (min-width:1536px){
 
  .loading #text-1{
+   border:2px solid red;
   position:absolute ;
   top:10rem;
   right:35rem ;
