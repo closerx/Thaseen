@@ -2248,6 +2248,9 @@ section,
   .werapper .carousel {
     grid-auto-columns: calc((100%/2 - 9px));
   }
+  .loading p{
+    border:2px solid green;
+  } 
 }
 @media screen and (max-width:600px){
   .werapper .carousel {
@@ -2274,7 +2277,7 @@ section,
   font-weight:bold ;
   }
 .loading p{
-  border:2px solid red
+  border:2px solid red;
   height:100px ;
   width:400px ;
   position:absolute ;
