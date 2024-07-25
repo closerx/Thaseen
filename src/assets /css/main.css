@@ -2256,7 +2256,6 @@ section,
 }
 @media screen and (min-width:1024px){
  .loading #text-1{
-   border: 2px solid red ;
   position:absolute ;
   top:10rem;
   right:35rem ;
