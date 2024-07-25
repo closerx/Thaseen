@@ -2266,7 +2266,7 @@ section,
 }
   .loading  #text-2{
   position:absolute ;
-    Width:100%;
+  Width:300px;
   top:15rem ;
   right:35rem;
   height:100px ;
@@ -2274,6 +2274,6 @@ section,
   font-weight:bold ;
   }
 .werapper  .carousel{
- grid-auto-columns: calc((100%/6 - 12px));
+ grid-auto-columns: calc((100%/4 - 12px));
 }
 }
