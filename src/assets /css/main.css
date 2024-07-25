@@ -2265,9 +2265,9 @@ section,
   font-weight:bold ;
 }
   .loading  #text-2{
-    border:2px solid red;
+  border:4px solid red;
   position:absolute ;
-  Width:300px;
+  Width:500px;
   top:15rem ;
   right:35rem;
   height:100px ;
