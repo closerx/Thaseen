@@ -2289,6 +2289,9 @@ section,
 } 
 /*md*/
 @media screen and (min-width:1024px){
+  .footer{
+    margin-top: 70px;
+  }
   .header .logo {
     line-height: 1;
     position: relative;
@@ -2377,6 +2380,9 @@ section,
 
 /* xl */
 @media screen and (min-width:1200px){
+  .footer{
+    margin-top: 70px;
+  }
 .header .logo{
     line-height: 1;
     position: relative;
@@ -2464,6 +2470,9 @@ section,
 }
 /* 2xl */
 @media screen and (min-width:1536px){
+  .footer{
+    margin-top: 70px;
+  }
   .header .logo{
     position: relative;
     left: 30rem;
