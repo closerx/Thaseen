@@ -2296,6 +2296,7 @@ section,
     justify-content:space-between;
   }
   .info h2{
+    display:none;
     width:auto;
    } 
   .info .ttt{
@@ -2308,7 +2309,7 @@ section,
     width:50px;
     height:50px;
     position:relative;
-    right:33rem;
+    right:30rem;
   }
   .footer{
     margin-top: 70px;
