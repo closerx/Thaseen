@@ -2411,17 +2411,17 @@ section,
   .info h2{
     width:auto;
    } 
-  .ttt{
+  .info .ttt{
     width:50px;
     height:50px;
     position:relative;
     right:30rem;
   }
-  .ggg{
+  .info .ggg{
     width:50px;
     height:50px;
     position:relative;
-    right:30rem;
+    right:20rem;
   }
   .footer{
     margin-top: 70px;
@@ -2522,17 +2522,17 @@ section,
   .info h2{
     width:auto;
    } 
-  .ttt{
+  .info .ttt{
     width:50px;
     height:50px;
     position:relative;
     right:30rem;
   }
-  .ggg{
+  .info .ggg{
     width:50px;
     height:50px;
     position:relative;
-    right:30rem;
+    right:20rem;
   }
   .footer{
     margin-top: 70px;
