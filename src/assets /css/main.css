@@ -2309,7 +2309,7 @@ section,
   }
   .navmenu a {
     position: relative;
-    left: 30rem;
+    left: -1rem;
   }
  .loading #text-1{
    border:2px solid blue;
