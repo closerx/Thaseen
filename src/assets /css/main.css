@@ -2307,6 +2307,23 @@ section,
     position: relative;
     left: 45rem;
 }
+  .dropdown-hadi a {
+    display: block;
+    position: relative;
+    left: 20rem;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+  .dropdown-hadi #bell-icon {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    position: relative;
+    right: 5rem;
+}
    .navmenu ul li a {
     display: inline;
     padding: 0;
@@ -2379,6 +2396,23 @@ section,
     position: relative;
     left: 20rem;
 }
+  .dropdown-hadi a {
+    display: block;
+    position: relative;
+    left: 20rem;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+  .dropdown-hadi #bell-icon {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    position: relative;
+    right: 5rem;
+}
    .navmenu ul li a {
     display: inline;
     padding: 0;
@@ -2448,6 +2482,23 @@ section,
     width: 50px;
     position: relative;
     left: 20rem;
+}
+  .dropdown-hadi a {
+    display: block;
+    position: relative;
+    left: 20rem;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+  .dropdown-hadi #bell-icon {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    position: relative;
+    right: 5rem;
 }
   .navmenu ul li a {
     display: inline;
