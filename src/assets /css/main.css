@@ -127,14 +127,7 @@ footer p{
   color:red ;
 }
 
-.dropdown-hadi #bell-icon{
-  height:50px;
-  width:50px ;
-  display:flex;
-  position:relative;
-  right:180px ;
-  
-}
+
 
 .loading{
   display:flex;
