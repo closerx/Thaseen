@@ -2479,6 +2479,7 @@ section,
   .ttt{
     width:50px;
     height:50px;
+    float:left;
   }
   .footer{
     margin-top: 70px;
