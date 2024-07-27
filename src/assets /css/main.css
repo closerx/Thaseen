@@ -2412,7 +2412,17 @@ section,
     left: 40rem;
     border: 2px solid green;
   }
-
+  .navmenu ul li a {
+    display: inline;
+    padding: 0;
+    margin: 0 2px;
+    font-size: 30px;
+  }
+  .navmenu a {
+    border: 2px solid red;
+    position: relative;
+    left: 30rem;
+  }
  .loading #text-1{
    border:2px solid red;
   position:absolute ;
