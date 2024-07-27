@@ -2350,7 +2350,7 @@ section,
 @media screen and (min-width:1200px){
 .header .log{
     position: relative;
-    left: 40rem;
+    left: 20rem;
     border: 2px solid green;
  } 
  .loading #text-1{
