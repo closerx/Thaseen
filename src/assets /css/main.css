@@ -2299,7 +2299,17 @@ section,
   .header .logo {
     line-height: 1;
     position: relative;
-    left: 20rem;
+    left: 40rem;
+  }
+   .navmenu ul li a {
+    display: inline;
+    padding: 0;
+    margin: 0 2px;
+    font-size: 30px;
+  }
+  .navmenu a {
+    position: relative;
+    left: 30rem;
   }
  .loading #text-1{
    border:2px solid blue;
