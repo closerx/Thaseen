@@ -2498,10 +2498,14 @@ section,
 /* 2xl */
 @media screen and (min-width:1536px){
   .info{
-    border:2px solid red ;
-    display:inline;
+    display:flex;
     align-items:center;
+    justify-content:space-between;
   }
+  .info h2{
+    border:2px solid red ;
+    width:100%;
+   } 
   .ttt{
     width:50px;
     height:50px;
