@@ -2303,7 +2303,7 @@ section,
   .dropdown-hadi a {
     display: block;
     position: relative;
-    left: 20rem;
+    left: 45rem;
     background-color: #fff;
     color: #000;
     border: none;
@@ -2328,7 +2328,6 @@ section,
     left: -1rem;
   }
  .loading #text-1{
-   border:2px solid blue;
   position:absolute ;
   top:10rem;
   right:35rem ;
@@ -2417,7 +2416,6 @@ section,
     left: 30rem;
   }
  .loading #text-1{
-   border:2px solid green;
   position:absolute ;
   top:10rem;
   right:35rem ;
@@ -2491,7 +2489,7 @@ section,
     width: 50px;
     display: flex;
     position: relative;
-    right: 20rem;
+    right: 3rem;
 }
   .navmenu ul li a {
     display: inline;
@@ -2504,7 +2502,6 @@ section,
     left: 30rem;
   }
  .loading #text-1{
-   border:2px solid red;
   position:absolute ;
   top:10rem;
   right:35rem ;
