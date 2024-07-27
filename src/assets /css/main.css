@@ -2290,30 +2290,37 @@ section,
 /*md*/
 @media screen and (min-width:1024px){
   .info{
-    border:2px solid blue;
     display:flex;
     align-items:center;
     justify-content:space-between;
   }
   .info h2{
-    display:none;
-    width:auto;
+    width:100%;
    } 
   .info .ttt{
     width:50px;
     height:50px;
-    position:relative;
-    right:30px;
+    position:absolute ;
+    right:250px;
   }
   .info .ggg{
     width:50px;
     height:50px;
-    position:relative;
-    left:30px;
+    position:absolute ;
+    left:100px;
   }
   .footer{
     margin-top: 70px;
   }
+   #kids-good {
+     text-align: center;
+     font-size: 30px;
+   }
+   #who-p {
+     margin: 30px 0;
+     font-size: 20px;
+     text-align: center;
+   } 
   .header .logo {
     line-height: 1;
     position: relative;
@@ -2404,29 +2411,37 @@ section,
 @media screen and (min-width:1200px){
  
  .info{
-    border:2px solid green;
     display:flex;
     align-items:center;
     justify-content:space-between;
   }
-  .info h2{
-    width:auto;
+    .info h2{
+    width:100%;
    } 
   .info .ttt{
     width:50px;
     height:50px;
-    position:absolute;
-    right:40rem;
+    position:absolute ;
+    right:300px;
   }
   .info .ggg{
     width:50px;
     height:50px;
-    position:absolute;
-    right:3rem;
+    position:absolute ;
+    left:200px;
   }
   .footer{
     margin-top: 70px;
   }
+   #kids-good{
+   text-align:center;
+   font-size:30px;
+ }
+   #who-p{
+   margin:30px 0;
+   font-size:20px;
+   text-align:center;
+   } 
 .header .logo{
     line-height: 1;
     position: relative;
@@ -2515,29 +2530,38 @@ section,
 /* 2xl */
 @media screen and (min-width:1536px){
   .info{
-    border:2px solid red;
     display:flex;
     align-items:center;
     justify-content:space-between;
+    padding-bottom:30px;
   }
-  .info h2{
-    width:auto;
+    .info h2{
+    width:100%;
    } 
   .info .ttt{
     width:50px;
     height:50px;
-    position:relative;
-    right:60rem;
+    position:absolute ;
+    right:450px;
   }
   .info .ggg{
     width:50px;
     height:50px;
-    position:relative;
-    right:5px;
+    position:absolute ;
+    left:400px;
   }
   .footer{
     margin-top: 70px;
   }
+ #kids-good{
+   text-align:center;
+   font-size:30px;
+ }
+ #who-p{
+   margin:30px 0;
+   font-size:20px;
+   text-align:center;
+ }
   .header .logo{
     position: relative;
     left: 30rem;
