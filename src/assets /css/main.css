@@ -2381,7 +2381,7 @@ section,
 .header .logo{
     line-height: 1;
     position: relative;
-    left: 30rem;
+    left: 15rem;
  } 
   .dropdown-hadi img {
     height: 50px;
@@ -2404,7 +2404,7 @@ section,
     width: 50px;
     display: flex;
     position: relative;
-    right: -30rem;
+    right: 15rem;
 }
    .navmenu ul li a {
     display: inline;
@@ -2491,7 +2491,7 @@ section,
     width: 50px;
     display: flex;
     position: relative;
-    right: 5rem;
+    right: 20rem;
 }
   .navmenu ul li a {
     display: inline;
