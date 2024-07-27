@@ -2352,7 +2352,7 @@ section,
 
 /* xl */
 @media screen and (min-width:1200px){
-.header .log{
+.header .logo{
     line-height: 1;
     position: relative;
     left: 30rem;
@@ -2364,7 +2364,6 @@ section,
     font-size: 30px;
   }
   .navmenu a {
-    border: 2px solid red;
     position: relative;
     left: 30rem;
   }
@@ -2430,7 +2429,6 @@ section,
     font-size: 30px;
   }
   .navmenu a {
-    border: 2px solid red;
     position: relative;
     left: 30rem;
   }
