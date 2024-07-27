@@ -2472,6 +2472,9 @@ section,
 @media screen and (min-width:1536px){
   .info{
     border:2px solid red ;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
   }
   .ttt{
     width:50px;
